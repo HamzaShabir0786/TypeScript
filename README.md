@@ -1,2 +1,3 @@
-#Calculator
+#Calculator project
 **TypeScript**
+*typescriplt*
