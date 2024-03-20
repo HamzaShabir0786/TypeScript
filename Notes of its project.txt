@@ -1,0 +1,41 @@
+1 step:
+install vs code from chrome.
+
+2 step:
+install node js from chrome.
+
+3 step:
+install vs code and node js in your machine.
+
+4 step:
+after installation vs code and node js create a folder and open command promt on folder directory.
+
+5 step:
+type "nmp init" in cmd. after type this command many question asked you so, give the answer.
+
+6 step:
+open vs code through cmd with the help of "code ." command.
+
+7 step: 
+when you open vs code you will see there a file named "package.json" , it file created with "npm init" that you written in fifth step.
+
+8 step:
+now create a tsconfig.json file with the help of "tsc --init" command. this command used for initialization of typescript.
+
+9 step:
+you will see another file named "tsconfig.json" it file created with "tsc --init" command.
+
+10 step:
+click tsconfig.json file and go in line NO 14 change it "es2016" to "ES2022". now line NO 28 change it "commonjs" to "NodeNext" and now change another file which line NO is 30 change it 
+"Node10" to NOdeNext.
+ 
+11 step:
+now, create a file named "index.ts.
+
+12 step:
+now we need to install a package in our directory with the help of "nmp i inquirer" command. when you install this package successfully you will see a new folder in your project folder named "node_modules" as well as you will see dependencies named code in "package.json" file.
+
+13 step:
+now in index.ts file type 'import inquirer from "inquirer" ' after this command go to cmd and type "npm i --save-dev @type/inquirer"  after this command you will see another file nmed "devDependencies" in package.json.
+
+   Now are capable to start your coding this coding for build calculator.
